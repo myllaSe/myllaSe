@@ -32,5 +32,6 @@
 
 </p>
 
+![Snake animation](https://github.com/myllaSe/myllaSe/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> “Tudo tem um significado, se ao menos pudéssemos lê-lo.” (PULLMAN, Philip) </p><br>
