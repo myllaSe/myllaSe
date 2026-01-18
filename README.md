@@ -20,7 +20,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[![myllaSe's GitHub stats](https://github-readme-stats.vercel.app/api?username=myllaSe)](https://github.com/myllaSe/github-readme-stats)"
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"
   />
 
 <img 
