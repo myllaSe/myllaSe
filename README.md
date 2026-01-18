@@ -1,4 +1,4 @@
-## Oie, eu sou a Mylla! ^^
+## Oie, me chamo Mylla! ^^
 
 <p align="left">
 💻 Sempre em busca de aprender coisas novas <br>
@@ -6,14 +6,6 @@
 ⚡ Gosto de resolver problemas e transformar ideias em projetos reais
 </p>
     
-  ## 🤖 Linguagens e Tecnologias
-
-![Portugol](https://img.shields.io/badge/-Portugol-blue?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## 📫 Onde me encontrar<br>
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mylla-furtado-b00663140/)
@@ -28,7 +20,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[![myllaSe's GitHub stats](https://github-readme-stats.vercel.app/api?username=myllaSe)](https://github.com/myllaSe/github-readme-stats)
+    src="[![myllaSe's GitHub stats](https://github-readme-stats.vercel.app/api?username=myllaSe)](https://github.com/myllaSe/github-readme-stats)"
   />
 
 <img 
