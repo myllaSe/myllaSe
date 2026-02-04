@@ -12,23 +12,14 @@
 
 </div>
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=myllaSe&show_icons=true&theme=dracula"
-  />
+![Mylla GitHub Stats](https://github-readme-stats.vercel.app/api?username=myllaSe&show_icons=true&count_private=true&theme=dracula)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllaSe&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  /><br><br><br><br><br><br><br><br><br>
+![GitHub Streak](https://streak-stats.demolab.com?user=myllaSe&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myllaSe&layout=compact&theme=dracula)
+
 
 </p>
 
