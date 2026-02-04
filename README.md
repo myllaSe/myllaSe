@@ -21,30 +21,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📊 Projetos
-
-📁 Neste GitHub você encontrará:
-- Exercícios práticos do curso de Ciência de Dados  
-- Análises exploratórias completas  
-- Tratamento de dados categóricos e numéricos  
-- Estudos de estatística aplicada a dados reais  
-
-Cada projeto reflete minha evolução técnica e minha forma de pensar dados de ponta a ponta.
-
----
-
-## 🚀 Objetivo profissional
-
-Busco uma oportunidade para atuar com **Análise de Dados / Ciência de Dados**, onde eu possa continuar aprendendo, gerar impacto com dados e evoluir tecnicamente em um ambiente colaborativo.
 
 </p>
 
