@@ -14,11 +14,7 @@
 
 ## 📊 GitHub Stats
 
-![Mylla GitHub Stats](https://github-readme-stats.vercel.app/api?username=myllaSe&show_icons=true&count_private=true&theme=dracula)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=myllaSe&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myllaSe&layout=compact&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=myllaSe&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 
 </p>
