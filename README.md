@@ -12,7 +12,7 @@
     
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mylla-furtado-b00663140/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mylla-furtado-aml/)
 
 </div>
 
