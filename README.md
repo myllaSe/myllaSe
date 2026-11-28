@@ -1,10 +1,8 @@
-## Oie, me chamo Mylla! ^^
+## Olá, me chamo Mylla!
 
 <p align="left">
-💻 Sempre em busca de aprender coisas novas <br>
-☕ Sobrevivo a base de café e curiosidades aleatórias <br>
-⚡ Gosto de resolver problemas e transformar ideias em projetos reais <br>
-🎯 Estudante de Ciência de Dados, com foco em análise exploratória, tratamento de dados e geração de insights a partir de dados reais.
+- Sempre em busca de aprender coisas novas <br>
+- Gosto de resolver problemas e transformar ideias em projetos reais <br>
     
 ---
 
@@ -27,8 +25,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
